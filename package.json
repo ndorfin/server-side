@@ -1,0 +1,20 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "A series of exercises for getting a JavaScript-based server-side application up and running",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndorfin/server-side.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndorfin/server-side/issues"
+  },
+  "homepage": "https://github.com/ndorfin/server-side#readme"
+}
